@@ -1,0 +1,5 @@
+E:\vsprojects\WPFTest\dll_csharp2021\bin\Debug\dll_csharp2021.dll
+E:\vsprojects\WPFTest\dll_csharp2021\bin\Debug\dll_csharp2021.pdb
+E:\vsprojects\WPFTest\dll_csharp2021\obj\Debug\dll_csharp2021.csproj.CoreCompileInputs.cache
+E:\vsprojects\WPFTest\dll_csharp2021\obj\Debug\dll_csharp2021.dll
+E:\vsprojects\WPFTest\dll_csharp2021\obj\Debug\dll_csharp2021.pdb

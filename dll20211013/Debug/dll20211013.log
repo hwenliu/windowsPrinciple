@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  dllmain.cpp
+  test20211013.cpp
+  正在生成代码...
+    正在创建库 E:\vsprojects\WPFTest\Debug\dll20211013.lib 和对象 E:\vsprojects\WPFTest\Debug\dll20211013.exp
+dll20211013.exp : warning LNK4070: .EXP 中的 /OUT:test2021.dll 指令与输出文件名“E:\vsprojects\WPFTest\Debug\dll20211013.dll”不同；忽略指令
+  dll20211013.vcxproj -> E:\vsprojects\WPFTest\Debug\dll20211013.dll

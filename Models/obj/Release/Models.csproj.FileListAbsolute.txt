@@ -1,0 +1,8 @@
+E:\vsprojects\WPFTest\Models\bin\Release\Models.dll
+E:\vsprojects\WPFTest\Models\bin\Release\Models.pdb
+E:\vsprojects\WPFTest\Models\bin\Release\Utils.dll
+E:\vsprojects\WPFTest\Models\bin\Release\System.Data.SQLite.dll
+E:\vsprojects\WPFTest\Models\bin\Release\Utils.pdb
+E:\vsprojects\WPFTest\Models\obj\Release\Models.csprojResolveAssemblyReference.cache
+E:\vsprojects\WPFTest\Models\obj\Release\Models.dll
+E:\vsprojects\WPFTest\Models\obj\Release\Models.pdb

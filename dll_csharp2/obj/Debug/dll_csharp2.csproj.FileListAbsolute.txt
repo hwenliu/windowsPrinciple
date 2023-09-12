@@ -1,0 +1,5 @@
+E:\vsprojects\WPFTest\dll_csharp2\bin\Debug\dll_csharp2.dll
+E:\vsprojects\WPFTest\dll_csharp2\bin\Debug\dll_csharp2.pdb
+E:\vsprojects\WPFTest\dll_csharp2\obj\Debug\dll_csharp2.dll
+E:\vsprojects\WPFTest\dll_csharp2\obj\Debug\dll_csharp2.pdb
+E:\vsprojects\WPFTest\dll_csharp2\obj\Debug\dll_csharp2.csproj.CoreCompileInputs.cache

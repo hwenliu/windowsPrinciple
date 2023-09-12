@@ -1,0 +1,13 @@
+E:\vsprojects\WPFTest\BaseComponents\bin\Release\BaseComponents.dll
+E:\vsprojects\WPFTest\BaseComponents\bin\Release\BaseComponents.pdb
+E:\vsprojects\WPFTest\BaseComponents\obj\Release\BaseComponents.csprojResolveAssemblyReference.cache
+E:\vsprojects\WPFTest\BaseComponents\obj\Release\Block.baml
+E:\vsprojects\WPFTest\BaseComponents\obj\Release\Block.g.cs
+E:\vsprojects\WPFTest\BaseComponents\obj\Release\LoadingAnimation.g.cs
+E:\vsprojects\WPFTest\BaseComponents\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\vsprojects\WPFTest\BaseComponents\obj\Release\BaseComponents_MarkupCompile.cache
+E:\vsprojects\WPFTest\BaseComponents\obj\Release\BaseComponents_MarkupCompile.lref
+E:\vsprojects\WPFTest\BaseComponents\obj\Release\LoadingAnimation.baml
+E:\vsprojects\WPFTest\BaseComponents\obj\Release\BaseComponents.g.resources
+E:\vsprojects\WPFTest\BaseComponents\obj\Release\BaseComponents.dll
+E:\vsprojects\WPFTest\BaseComponents\obj\Release\BaseComponents.pdb

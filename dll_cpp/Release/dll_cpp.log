@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  dll_cpp.cpp
+    正在创建库 E:\vsprojects\WPFTest\Release\dll_cpp.lib 和对象 E:\vsprojects\WPFTest\Release\dll_cpp.exp
+  正在生成代码
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  dll_cpp.vcxproj -> E:\vsprojects\WPFTest\Release\dll_cpp.dll
+  dll_cpp.vcxproj -> E:\vsprojects\WPFTest\Release\dll_cpp.pdb (Full PDB)

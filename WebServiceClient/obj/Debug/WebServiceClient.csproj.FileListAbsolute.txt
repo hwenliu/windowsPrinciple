@@ -1,0 +1,1 @@
+E:\vsprojects\WPFTest\WebServiceClient\obj\Debug\WebServiceClient.csprojResolveAssemblyReference.cache

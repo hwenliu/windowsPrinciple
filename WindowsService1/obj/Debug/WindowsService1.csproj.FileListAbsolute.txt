@@ -1,0 +1,7 @@
+E:\vsprojects\WPFTest\WindowsService1\bin\Debug\WindowsService1.exe.config
+E:\vsprojects\WPFTest\WindowsService1\bin\Debug\WindowsService1.exe
+E:\vsprojects\WPFTest\WindowsService1\bin\Debug\WindowsService1.pdb
+E:\vsprojects\WPFTest\WindowsService1\obj\Debug\WindowsService1.csproj.CoreCompileInputs.cache
+E:\vsprojects\WPFTest\WindowsService1\obj\Debug\WindowsService1.exe
+E:\vsprojects\WPFTest\WindowsService1\obj\Debug\WindowsService1.pdb
+E:\vsprojects\WPFTest\WindowsService1\obj\Debug\WindowsService1.csproj.AssemblyReference.cache

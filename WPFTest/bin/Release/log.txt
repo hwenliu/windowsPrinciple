@@ -1,0 +1,9 @@
+System.BadImageFormatException: 试图加载格式不正确的程序。 (异常来自 HRESULT:0x8007000B)
+   在 System.Data.SQLite.UnsafeNativeMethods.sqlite3_config_none(SQLiteConfigOpsEnum op)
+   在 System.Data.SQLite.SQLite3.StaticIsInitialized()
+   在 System.Data.SQLite.SQLiteLog.Initialize()
+   在 System.Data.SQLite.SQLiteConnection..ctor(String connectionString, Boolean parseViaFramework)
+   在 System.Data.SQLite.SQLiteConnection..ctor(String connectionString)
+   在 Utils.SqliteHelper..ctor(String connectionString) 位置 E:\vsprojects\WPFTest\Utils\SqliteHelper.cs:行号 38
+未将对象引用设置到对象的实例。
+未将对象引用设置到对象的实例。

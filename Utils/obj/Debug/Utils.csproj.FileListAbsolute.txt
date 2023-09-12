@@ -1,0 +1,11 @@
+E:\vsprojects\WPFTest\Utils\bin\Debug\SQLite.Interop.dll
+E:\vsprojects\WPFTest\Utils\bin\Debug\System.Data.SQLite.dll
+E:\vsprojects\WPFTest\Utils\bin\Debug\Utils.dll
+E:\vsprojects\WPFTest\Utils\bin\Debug\Utils.pdb
+E:\vsprojects\WPFTest\Utils\bin\Debug\BaseComponents.dll
+E:\vsprojects\WPFTest\Utils\bin\Debug\BaseComponents.pdb
+E:\vsprojects\WPFTest\Utils\obj\Debug\Utils.dll
+E:\vsprojects\WPFTest\Utils\obj\Debug\Utils.pdb
+E:\vsprojects\WPFTest\Utils\obj\Debug\Utils.csproj.AssemblyReference.cache
+E:\vsprojects\WPFTest\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+E:\vsprojects\WPFTest\Utils\obj\Debug\Utils.csproj.CopyComplete

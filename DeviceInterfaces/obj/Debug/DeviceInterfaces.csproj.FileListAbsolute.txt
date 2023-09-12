@@ -1,0 +1,7 @@
+E:\vsprojects\WPFTest\DeviceInterfaces\bin\Debug\DeviceInterfaces.dll
+E:\vsprojects\WPFTest\DeviceInterfaces\bin\Debug\DeviceInterfaces.pdb
+E:\vsprojects\WPFTest\DeviceInterfaces\bin\Debug\DeviceInterfaces.tlb
+E:\vsprojects\WPFTest\DeviceInterfaces\obj\Debug\DeviceInterfaces.dll
+E:\vsprojects\WPFTest\DeviceInterfaces\obj\Debug\DeviceInterfaces.pdb
+E:\vsprojects\WPFTest\DeviceInterfaces\obj\Debug\DeviceInterfaces.csproj.CoreCompileInputs.cache
+E:\vsprojects\WPFTest\DeviceInterfaces\obj\Debug\DeviceInterfaces.csproj.AssemblyReference.cache

@@ -1,0 +1,4 @@
+﻿  dll_clr.cpp
+  AssemblyInfo.obj :托管的代码存在时 /DEBUG:FASTLINK 不受支持；正在重新启动与 /DEBUG:FULL 的链接
+  dll_clr.vcxproj -> E:\vsprojects\WPFTest\Debug\dll_clr.dll
+  dll_clr.vcxproj -> E:\vsprojects\WPFTest\Debug\dll_clr.pdb (Partial PDB)

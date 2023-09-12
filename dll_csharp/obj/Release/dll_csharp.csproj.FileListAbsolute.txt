@@ -1,0 +1,5 @@
+E:\vsprojects\WPFTest\dll_csharp\bin\Release\dll_csharp.dll
+E:\vsprojects\WPFTest\dll_csharp\bin\Release\dll_csharp.pdb
+E:\vsprojects\WPFTest\dll_csharp\obj\Release\dll_csharp.csprojResolveAssemblyReference.cache
+E:\vsprojects\WPFTest\dll_csharp\obj\Release\dll_csharp.dll
+E:\vsprojects\WPFTest\dll_csharp\obj\Release\dll_csharp.pdb

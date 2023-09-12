@@ -1,0 +1,5 @@
+LIBRARY "test2021"
+
+EXPORTS
+
+testMulti @ 1

@@ -1,0 +1,12 @@
+E:\vsprojects\WPFTest\Utils\bin\Release\Utils.dll
+E:\vsprojects\WPFTest\Utils\bin\Release\Utils.pdb
+E:\vsprojects\WPFTest\Utils\bin\Release\BaseComponents.dll
+E:\vsprojects\WPFTest\Utils\bin\Release\EntityFramework.dll
+E:\vsprojects\WPFTest\Utils\bin\Release\SQLite.Designer.dll
+E:\vsprojects\WPFTest\Utils\bin\Release\System.Data.SQLite.dll
+E:\vsprojects\WPFTest\Utils\bin\Release\EnvDTE.dll
+E:\vsprojects\WPFTest\Utils\bin\Release\stdole.dll
+E:\vsprojects\WPFTest\Utils\bin\Release\BaseComponents.pdb
+E:\vsprojects\WPFTest\Utils\obj\Release\Utils.csprojResolveAssemblyReference.cache
+E:\vsprojects\WPFTest\Utils\obj\Release\Utils.dll
+E:\vsprojects\WPFTest\Utils\obj\Release\Utils.pdb

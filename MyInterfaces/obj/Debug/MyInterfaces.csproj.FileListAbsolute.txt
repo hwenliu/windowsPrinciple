@@ -1,0 +1,6 @@
+E:\vsprojects\WPFTest\MyInterfaces\bin\Debug\MyInterfaces.dll
+E:\vsprojects\WPFTest\MyInterfaces\bin\Debug\MyInterfaces.pdb
+E:\vsprojects\WPFTest\MyInterfaces\bin\Debug\MyInterfaces.tlb
+E:\vsprojects\WPFTest\MyInterfaces\obj\Debug\MyInterfaces.csproj.CoreCompileInputs.cache
+E:\vsprojects\WPFTest\MyInterfaces\obj\Debug\MyInterfaces.dll
+E:\vsprojects\WPFTest\MyInterfaces\obj\Debug\MyInterfaces.pdb

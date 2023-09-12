@@ -1,0 +1,12 @@
+LIBRARY "dll_cpp"
+
+EXPORTS
+
+testAdd @ 1
+testMulti @ 2
+testMinus @ 4
+testDiv @ 3
+testMax @ 5
+testMin @ 6
+testString @ 7 
+testInt @ 8

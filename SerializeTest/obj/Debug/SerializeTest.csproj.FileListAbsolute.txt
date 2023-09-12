@@ -1,0 +1,10 @@
+E:\vsprojects\WPFTest\SerializeTest\bin\Debug\SerializeTest.exe.config
+E:\vsprojects\WPFTest\SerializeTest\bin\Debug\SerializeTest.exe
+E:\vsprojects\WPFTest\SerializeTest\bin\Debug\SerializeTest.pdb
+E:\vsprojects\WPFTest\SerializeTest\obj\Debug\SerializeTest.csproj.AssemblyReference.cache
+E:\vsprojects\WPFTest\SerializeTest\obj\Debug\SerializeTest.csproj.CoreCompileInputs.cache
+E:\vsprojects\WPFTest\SerializeTest\obj\Debug\SerializeTest.exe
+E:\vsprojects\WPFTest\SerializeTest\obj\Debug\SerializeTest.pdb
+E:\vsprojects\WPFTest\SerializeTest\bin\Debug\Newtonsoft.Json.dll
+E:\vsprojects\WPFTest\SerializeTest\bin\Debug\Newtonsoft.Json.xml
+E:\vsprojects\WPFTest\SerializeTest\obj\Debug\SerializeTest.csproj.CopyComplete

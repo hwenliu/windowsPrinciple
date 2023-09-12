@@ -1,0 +1,5 @@
+E:\vsprojects\WPFTest\DeviceInterfaces\bin\Release\DeviceInterfaces.dll
+E:\vsprojects\WPFTest\DeviceInterfaces\bin\Release\DeviceInterfaces.pdb
+E:\vsprojects\WPFTest\DeviceInterfaces\obj\Release\DeviceInterfaces.csprojResolveAssemblyReference.cache
+E:\vsprojects\WPFTest\DeviceInterfaces\obj\Release\DeviceInterfaces.dll
+E:\vsprojects\WPFTest\DeviceInterfaces\obj\Release\DeviceInterfaces.pdb

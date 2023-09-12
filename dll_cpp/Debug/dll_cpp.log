@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  dll_cpp.cpp
+    正在创建库 E:\vsprojects\WPFTest\Debug\dll_cpp.lib 和对象 E:\vsprojects\WPFTest\Debug\dll_cpp.exp
+  dll_cpp.vcxproj -> E:\vsprojects\WPFTest\Debug\dll_cpp.dll

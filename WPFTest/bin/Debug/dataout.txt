@@ -1,0 +1,12 @@
+ WPFTest.UI.Chapter5.C5_SY1+FireAlarm 对象调用，群众发现火情MyWatchFire20211020_2 函数.
+ 群众察到火情发生在Kitchen，群众帮助主人Kitchen 火势.
+ WPFTest.UI.Chapter5.C5_SY1+FireAlarm 对象调用，群众发现火情WatchFire 函数.
+ 群众察到火情发生在Kitchen，群众帮助主人Kitchen 火势.
+ WPFTest.UI.Chapter5.C5_SY1+FireAlarm 对象调用，群众发现火情MyWatchFire20211020_2 函数.
+ 群众无法控制Kitchen 的火情，消防官兵来到!
+ WPFTest.UI.Chapter5.C5_SY1+FireAlarm 对象调用，群众发现火情WatchFire 函数.
+ 群众无法控制Kitchen 的火情，消防官兵来到!
+ WPFTest.UI.Chapter5.C5_SY1+FireAlarm 对象调用，群众发现火情MyWatchFire20211020_2 函数.
+ 群众无法控制class room 的火情，消防官兵来到!
+ WPFTest.UI.Chapter5.C5_SY1+FireAlarm 对象调用，群众发现火情WatchFire 函数.
+ 群众无法控制class room 的火情，消防官兵来到!
